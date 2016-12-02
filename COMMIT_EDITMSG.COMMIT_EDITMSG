@@ -1,0 +1,113 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   Images/5464795dN8179a200.jpg
+#	new file:   Images/546ab63aNaa4d5732.jpg
+#	new file:   Images/app_jd_1.png
+#	new file:   Images/app_jd_erwei.jpg
+#	new file:   Images/app_jd_wangyin.png
+#	new file:   Images/cate_banner_01.jpg
+#	new file:   Images/cate_banner_02.jpg
+#	new file:   Images/cx.jpg
+#	new file:   Images/cy.jpg
+#	new file:   Images/dakehu.jpg
+#	new file:   Images/gw01.jpg
+#	new file:   Images/gwc.jpg
+#	new file:   Images/iconlist_1.png
+#	new file:   Images/iconlist_2.png
+#	new file:   Images/iconlist_2_02.png
+#	new file:   Images/iconlist_2_05.png
+#	new file:   Images/iconlist_3.png
+#	new file:   Images/images/search_01.jpg
+#	new file:   Images/images/search_02.jpg
+#	new file:   Images/images/search_04.jpg
+#	new file:   Images/images/search_05.jpg
+#	new file:   Images/index/537b3130N7591211b.jpg
+#	new file:   Images/index/537b3138N3205302e.jpg
+#	new file:   Images/index/537b3152Nf0573a0d.jpg
+#	new file:   Images/index/537b316bN35574fff.jpg
+#	new file:   Images/index/537b3173Ne74bf3cf.jpg
+#	new file:   Images/index/53829f6eNa98427dc.jpg
+#	new file:   Images/index/54caf3a2N56357d7c.jpg
+#	new file:   Images/index/ad-arraw-hover.png
+#	new file:   Images/index/ad-arraw.png
+#	new file:   Images/index/ad_01.jpg
+#	new file:   Images/index/ad_02.jpg
+#	new file:   Images/index/ad_03.jpg
+#	new file:   Images/index/ad_focus.jpg
+#	new file:   Images/index/ad_small_01.jpg
+#	new file:   Images/index/ad_small_02.jpg
+#	new file:   Images/index/ad_small_03.jpg
+#	new file:   Images/index/banner_01.jpg
+#	new file:   Images/index/banner_02.jpg
+#	new file:   Images/index/cantuan.png
+#	new file:   Images/index/email.gif
+#	new file:   Images/index/fl_01.jpg
+#	new file:   Images/index/fl_ad_01.jpg
+#	new file:   Images/index/fl_ad_02.jpg
+#	new file:   Images/index/fl_dl_01.jpg
+#	new file:   Images/index/fl_dl_02.jpg
+#	new file:   Images/index/fl_dl_03.jpg
+#	new file:   Images/index/fl_dl_04.jpg
+#	new file:   Images/index/fl_dl_05.jpg
+#	new file:   Images/index/fl_dl_06.jpg
+#	new file:   Images/index/fl_dl_07.jpg
+#	new file:   Images/index/index_iconlist_01.png
+#	new file:   Images/index/link_arraw.png
+#	new file:   Images/index/rBEQWVFQLqgIAAAAAAAFbgvhBqMAAC0MAP_3cIAAAWG414.gif
+#	new file:   Images/index/rBEbRlN5zCsIAAAAAAALfFfJRv8AACGGgO__3sAAAuU660.jpg
+#	new file:   Images/index/rBEhUlHmCN0IAAAAAAASpGQ8IDYAABK2AP_yHEAABK8207.jpg
+#	new file:   Images/index/reading.jpg
+#	new file:   Images/index/share_01.jpg
+#	new file:   Images/index/share_02.jpg
+#	new file:   Images/index/show_01.jpg
+#	new file:   Images/index/show_02.jpg
+#	new file:   Images/index/show_03.jpg
+#	new file:   Images/index/show_04.png
+#	new file:   Images/index/show_05.jpg
+#	new file:   Images/index/show_06.jpg
+#	new file:   Images/index/show_07.jpg
+#	new file:   Images/index/show_08.jpg
+#	new file:   Images/index/tab_arraw.png
+#	new file:   Images/index/virtuals-20140606.png
+#	new file:   Images/index/virtuals_arraw.gif
+#	new file:   Images/input.jpg
+#	new file:   Images/input01.jpg
+#	new file:   Images/jd.jpg
+#	new file:   Images/jd_logo.png
+#	new file:   Images/jt.jpg
+#	new file:   Images/jt_down.jpg
+#	new file:   Images/jt_up.jpg
+#	new file:   Images/jtr.jpg
+#	new file:   Images/jwy_03.jpg
+#	new file:   Images/jy.jpg
+#	new file:   Images/kx.jpg
+#	new file:   Images/logo-201305.png
+#	new file:   Images/nav_bg.jpg
+#	new file:   Images/phone.jpg
+#	new file:   Images/ps02.jpg
+#	new file:   Images/pwd.jpg
+#	new file:   Images/reg_phone.jpg
+#	new file:   Images/regist_btn.jpg
+#	new file:   Images/regist_btn_hove.jpg
+#	new file:   Images/search.jpg
+#	new file:   Images/sh04.jpg
+#	new file:   Images/star.jpg
+#	new file:   Images/tab.png
+#	new file:   Images/ts05.jpg
+#	new file:   Images/user.jpg
+#	new file:   Images/vip.jpg
+#	new file:   Images/welcome.png
+#	new file:   Images/youjiantou.png
+#	new file:   Images/zf03.jpg
+#	new file:   index.css
+#	new file:   index.html
+#
+
